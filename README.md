@@ -21,13 +21,3 @@ Aktifkan plugin melalui Dashboard > Plugins > Daftar Post dengan Pengaturan.
 
 Plugin akan otomatis membuat halaman “Daftar Post” berisi shortcode [daftar_post].
 
-🧾 Shortcode
-Gunakan [daftar_post] pada:
-
-Halaman
-
-Post
-
-Widget teks (jika diperbolehkan tema/plugin)
-
-Output akan berupa list judul artikel yang diklik menuju halaman masing-masing, beserta tanggalnya.
